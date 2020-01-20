@@ -1,0 +1,2 @@
+# AppStoreConnectNotification
+アプリの審査状況をSlackに通知するGASです
